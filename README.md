@@ -3,38 +3,18 @@
 <!-- ─────────── HEADER BANNER ─────────── -->
 <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Sanchit%20Satija&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Researcher%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20Knowledge%20Discovery&descAlignY=58&descSize=18" /></a>
 
-<!-- ─────────── TYPING SUBTITLE ─────────── -->
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=8B7FD8&center=true&vCenter=true&width=720&lines=Closing+the+gap+between+small+and+frontier+LLMs;Turning+raw+structured+data+into+narrative+insight;Methodical.+Evidence-based.+Curious." alt="Typing SVG" /></a>
-
-<br/>
-
 <!-- ─────────── SOCIAL ROW ─────────── -->
 <a href="https://github.com/sanchit056"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://scholar.google.com/citations?user=TdGJX7MAAAAJ&hl=en"><img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/sanchit-satija-679878283/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:sanchitsatija55@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 
 </div>
 
 <br/>
 
 ---
-
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png"></picture> &nbsp; whoami
-
-```yaml
-name:        Sanchit Satija
-role:        Researcher & Developer
-affiliation: Radiant Logic
-interests:
-  - Agentic systems with small language models
-  - LLM evaluation under realistic tool-use conditions
-  - Pattern mining & LLM-based knowledge discovery
-philosophy:  "Architectural separation over monolithic scaling."
-```
-
-<br/>
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png"></picture> &nbsp; Publications
 
